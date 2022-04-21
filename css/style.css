@@ -1,0 +1,41 @@
+.contenu{
+    width: 500px;
+    /* margin-left: 500px;
+    margin-top: 50px; */
+    margin: 10 auto; 
+    /*  10 étant pour haut et bas
+    auto pour gauche et droite (permet de centrer) */
+}
+
+h1, h2, hr{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.liste-info{
+    list-style: none;
+}
+
+img.profil{
+    border-radius: 60%;
+    width: 175px;
+    height: 175px;
+    position: absolute;
+}
+
+.info{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+hr{
+    border-color: aquamarine;
+}
+
+.cv-section{
+    margin-bottom: 20px;
+}
+
+p{
+    margin: 0px;
+}
