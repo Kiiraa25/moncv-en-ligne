@@ -1,0 +1,34 @@
+
+.contenu{
+    margin: auto;
+    width: 500px;
+}
+
+hr{
+    border-color: lightcoral;
+    margin-top: 30px;
+}
+
+.infos img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid lightcoral;
+    float: left;
+    margin-right: 50px;
+}
+
+.liste-infos{
+    list-style: none;
+    text-align: left;
+    padding-top: 60px;
+}
+
+p{
+    margin: 0px;
+}
+
+h1, h2, hr{
+    text-align: center;
+
+}
